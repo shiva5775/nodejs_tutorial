@@ -1,0 +1,25 @@
+{
+  "name": "03_npminit",
+  "version": "1.0.0",
+  "description": "learning nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shiva5775/nodeJS.git"
+  },
+  "keywords": [
+    "learn",
+    "starting",
+    "with",
+    "code"
+  ],
+  "author": "shiva",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "simple-node-logger": "^21.8.12"
+  }
+}
